@@ -27,7 +27,7 @@ errorstatusmessage = "LOW HASHRATE DETECTED"
 
 """
 # 
-# If you find this script beneficial, feel free to donate:  ETH 0xE8cBA305dBAAD26d6C505BC47Ee4fA96616bD52C
+# If you find this script beneficial, feel free to donate:  ETH 0xE8cBA305dBAAD26d6C505BC47Ee4fA96616bD52C, BTC 1HyVDcuXtArYyp438P5iUJ6VmWLrKLFqkc, BCH 1MuP5N1anJDmNHFBiurr2QZxPyeKAQY3wR, LTC LQ3PQCECy3sDrHXVdPuC2ybF5g5mXHC6ed
 #
 # The idea of this script was adapted from a published version by Jayd Lawrence at https://gist.github.com/jaydlawrence/5a70cbf868f90bbc4cd7b0913810f310.  While I still use the same implementation of the
 # pushover service, I'm not determining hash using the udpate command, I'm parsing the miner log output, and I'm looking at each card as opposed to only the average hash rate.  I've added more easy to read
